@@ -1,3 +1,6 @@
+# Update 
+This repository should be considered retired.  Updated versions can be found in two other repositories: https://github.com/KevinDockx/SecuringBlazorClientSideApplications & https://github.com/KevinDockx/SecuringBlazorServerSideApplications
+
 # Authentication and Authorization in Blazor Applications
 Fully functioning finished sample code for my Authentication and Authorization in Blazor Applications course.  
 
